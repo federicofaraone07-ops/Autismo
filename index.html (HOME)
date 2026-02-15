@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Centro Autismo - Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Disturbo dello Spettro Autistico</h1>
+    <p>Informazioni chiare e supporto per le famiglie</p>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="diagnosi.html">Diagnosi</a>
+    <a href="trattamento.html">Trattamento</a>
+</nav>
+
+<div class="container">
+
+    <div class="card">
+        <h2>Cos'è l'Autismo</h2>
+        <p>L’autismo è un disturbo del neurosviluppo a genesi multifattoriale che interessa il Sistema Nervoso Centrale durante la sua organizzazione.</p>
+        <p>Si tratta di uno spettro variabile: possono essere presenti sia persone con alto quoziente intellettivo sia con deficit cognitivi.</p>
+
+        <div class="highlight">
+            Non è causato dallo scarso affetto dei genitori.  
+            Non è una malattia che passa con la crescita.  
+            Non esiste un farmaco che "cura" l’autismo.
+        </div>
+    </div>
+
+    <div class="card">
+        <h2>Caratteristiche principali</h2>
+        <ul>
+            <li>Difficoltà nella comunicazione e nel linguaggio</li>
+            <li>Comportamenti ripetitivi e stereotipati</li>
+            <li>Difficoltà nell’interazione sociale</li>
+            <li>Rigidità e difficoltà nei cambiamenti</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>Punti di forza</h2>
+        <ul>
+            <li>Pensiero visivo</li>
+            <li>Precisione e attenzione ai dettagli</li>
+            <li>Memoria visiva eccellente</li>
+            <li>Interessi approfonditi su temi specifici</li>
+        </ul>
+    </div>
+
+</div>
+
+<footer>
+    <p>Sito informativo sul Disturbo dello Spettro Autistico</p>
+</footer>
+
+</body>
+</html>
